@@ -12,6 +12,6 @@
         "phpunit/phpunit": "~4.0"
     },
     "autoload": {
-        "psr-4": { "phpoy\\": "src/", "Test\\":"Test/"}
+        "psr-4": { "phpoy\\": "Phpoy/", "Test\\":"Test/"}
     }
 }
